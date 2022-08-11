@@ -43,6 +43,8 @@ header>p {
 
     margin: 0 auto;
     padding: 40px 30px;
+
+    border: 1px dashed darkgray;
 }
 
 .beer-card-container {
